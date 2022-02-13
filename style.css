@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(184, 224, 247);
+}
+
+.banner{
+    height: 200px;
+    background-image: url('images/best-places-to-visit-in-asia.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.intro{
+    text-align: center;
+}
+
+q{
+    text-align: center;
+}
+
+.place{
+    text-align: left;
+}
+
+.place h3{
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+
+.place ul{
+    font-family: cursive ;
+}
+.place p{
+    font-family: cursive;
+}
+
+
+.more{
+    text-align: left;
+}
+
+
+.more h3{
+    color: antiquewhite;
+}
+
+.more ul{
+    color: rgb(0, 0, 0);
+}
+
+
+.footer h3{
+    border: 16px double rgb(0, 0, 0)
+    border-raduis: 12px
+}
